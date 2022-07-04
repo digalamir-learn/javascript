@@ -1,0 +1,29 @@
+.header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-image: url('https://www.pics4learning.com/images/pics-banner1-1300.jpg');  
+    background-position: center;  
+}
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 25pt;
+}
+
+.formSingle {
+    padding: 10px;
+    height: 50px;
+    width: 50%;
+}
+
+.singleDate {
+    padding: 10px;
+
+}
